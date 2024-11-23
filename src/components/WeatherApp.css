@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.weather-app {
+  text-align: center;
+  padding: 2rem;
+}
+
+form {
+  max-width: 400px;
+  margin: 0 auto 2rem;
+}
+
+.weather {
+  font-size: 2rem;
+}
+
+.weather h2 {
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.weather small {
+  font-size: 1.2rem;
+  color: #555;
+}
